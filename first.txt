@@ -1,2 +1,4 @@
 Gitの変更履歴
 基本的なワークフローを学びます
+.git add
+.git commit
