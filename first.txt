@@ -3,3 +3,4 @@ Gitの変更履歴
 .git add
 .git commit
 .git rm
+.git diff
